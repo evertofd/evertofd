@@ -4,3 +4,12 @@
         border-radius: 50%;
 
 }
+
+header{
+    background-image: url("../img/hero_section.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; 
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
