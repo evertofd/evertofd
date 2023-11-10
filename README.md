@@ -1,6 +1,9 @@
 ### Mi curriculum 👋
 ## Everto
-# otro ejemplo
+Ejercicio final del modulo 1
+
+# Proyectos frokeados
+https://github.com/Paula109/terminal
 <!--
 **evertofd/evertofd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
