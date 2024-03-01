@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Mi nombre es Everto Farias 😊 soy Developer y relator de contenido 👨‍🏫, estoy enfocado en el aprendizaje continuo y autodidacta, en busca de resultados de calidad. 
-Mantengo una creciente curiosidad por la tecnología y en búsqueda de nuevos retos.
+Mi nombre es Everto Farias 😊  Soy un Developer apasionado por la tecnología, con experiencia en proyectos desafiantes y habilidades de enseñanza comprobadas. 
+Me destaco por mi curiosidad y dedicación al aprendizaje continuo, así como por mi atención a los detalles y mi compromiso con la calidad.
 
-- 🔭 Actualmente estoy trabajando como INgeniero en Fraude en la empresa Falabella.
-- 🌱 Soy Relator en la Academia Desafio Latam y Talento Digital.
+- 💻 Actualmente estoy trabajando como Developer.
+- 👨‍🏫 Soy Relator en la Academia Desafio Latam y Talento Digital.
+- 🚴‍♂️🏊‍♂️ Además de mi pasión por el desarrollo de software, disfruto del ciclismo y la natación en mi tiempo libre
 
 **Estadisticas de GitHub** 📊
 
