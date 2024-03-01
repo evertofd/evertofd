@@ -1,20 +1,15 @@
-### Mi curriculum 👋
-## Everto
-Ejercicio final del modulo 1
+### Hi there 👋
 
-# Proyectos frokeados
-https://github.com/Paula109/terminal
-<!--
-**evertofd/evertofd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Everto Farias 😊 soy Developer y relator de contenido 👨‍🏫, estoy enfocado en el aprendizaje continuo y autodidacta, en busca de resultados de calidad. 
+Mantengo una creciente curiosidad por la tecnología y en búsqueda de nuevos retos.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando como INgeniero en Fraude en la empresa Falabella.
+- 🌱 Soy Relator en la Academia Desafio Latam y Talento Digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Estadisticas de GitHub** 📊
+
+![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertofd&show_icons=true&theme=radical)
+
+**Los lenguajes con los que más he trabajado son los siguientes** 📌
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertofd&layout=donut-vertical)](https://github.com/evertofd/github-readme-stats)
